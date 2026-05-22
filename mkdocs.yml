@@ -1,0 +1,5 @@
+
+site_name: Nexoryx_Kubernetes_AI_Platform_Production
+nav:
+  - Home: README.md
+  - Architecture: docs/architecture.md
